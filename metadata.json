@@ -1,0 +1,6 @@
+{
+  "name": "Ananké Cocina Guapuleña",
+  "description": "Restaurante, Bar, Pizzería y Horno de leña en Quito",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
